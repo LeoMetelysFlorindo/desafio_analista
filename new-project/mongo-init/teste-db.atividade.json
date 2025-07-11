@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "686ea876d2e6b5917242fed5"
+  },
+  "nome_atividade": "Curso de Word",
+  "descricao": "Curso básico de Word Módulo I",
+  "unidade_sesc": "Centro",
+  "id_responsavel": "686ea885d2e6b5917242fed7",
+  "data_criacao": "09/07/2025"
+},
+{
+  "_id": {
+    "$oid": "686fd5759e4e32fb276e5081"
+  },
+  "nome_atividade": "Curso de Excel",
+  "descricao": "Curso básico de Excel Módulo I",
+  "unidade_sesc": "Centro",
+  "id_responsavel": "686ea885d2e6b5917242fed7",
+  "data_criacao": "30/07/2025"
+}]

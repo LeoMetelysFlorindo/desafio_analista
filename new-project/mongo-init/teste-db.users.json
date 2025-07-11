@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "67a8f5c91d1333960ea24360"
+  },
+  "name": "John Doe",
+  "email": "john@yahoo.com",
+  "age": 25
+},
+{
+  "_id": {
+    "$oid": "67a8f6961d1333960ea24361"
+  },
+  "name": "Peter Doe",
+  "email": "peter@yahoo.com",
+  "age": 30
+},
+{
+  "_id": {
+    "$oid": "67a8f6c71d1333960ea24362"
+  },
+  "name": "Matt Doe",
+  "email": "matt@yahoo.com",
+  "age": 27
+},
+{
+  "_id": {
+    "$oid": "67a915b4107410465c6e848e"
+  },
+  "name": "Jose da Silva",
+  "email": "josesilva@gmail.com",
+  "age": "37",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e7cd7cc4b5580d92936f1"
+  },
+  "name": "Felipe",
+  "email": "felipe@yahoo.com",
+  "age": "42",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e7d2ecc4b5580d92936f3"
+  },
+  "name": "Felipe",
+  "email": "felipe@yahoo.com",
+  "age": "42",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e7e33cc4b5580d92936f7"
+  },
+  "name": "Felipe",
+  "email": "felipe@yahoo.com",
+  "age": "42",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686e7e8ccc4b5580d92936fa"
+  },
+  "name": "Felipe",
+  "email": "felipe@yahoo.com",
+  "age": "42",
+  "__v": 0
+}]

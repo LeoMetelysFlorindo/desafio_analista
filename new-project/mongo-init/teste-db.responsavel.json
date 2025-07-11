@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "686ea8d9d2e6b5917242fed8"
+  },
+  "id_responsavel": {
+    "$oid": "686ea885d2e6b5917242fed7"
+  },
+  "nome_responsavel": "Carlos Antonio Silva",
+  "matricula": "251234",
+  "data_criacao": "20/07/2025"
+}]

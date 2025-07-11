@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "686ea7e7d2e6b5917242fed1"
+  },
+  "id_cliente": {
+    "$oid": "686ea6bdd2e6b5917242fed0"
+  },
+  "nome_cliente": "Manoel Leonardo Metelis Florindo",
+  "data_nascimento": "30/07/1973",
+  "logradouro": "Av. Barcelos",
+  "número": "2228-M",
+  "bairro": "Praça 14 de Janeiro",
+  "cidade": "Manaus",
+  "estado": "AM",
+  "cep": "69020-200",
+  "data_criacao": "09/07/2025"
+}]
